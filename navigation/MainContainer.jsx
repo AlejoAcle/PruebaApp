@@ -58,3 +58,5 @@ export default function MainContainer(){
 
 
 }
+
+//falta el home screen 
